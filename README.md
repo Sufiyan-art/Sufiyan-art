@@ -6,7 +6,7 @@ I help businesses turn raw, messy data into clear, decision-ready insights.
 I work across SQL, Power BI, Python (Pandas), and Excel — from data
 cleaning and modeling to interactive dashboards and business reporting.
 
-Currently completing my BS in Computer Science while building real-world
+Completed my BS in Computer Science and now building real-world
 analytics projects to sharpen my skills.
 
 ---
